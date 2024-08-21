@@ -37,7 +37,7 @@ Navigate to http://127.0.0.1:5000
 
 if you see something like this:
 
-![this is a screenshot of what the web page should look like](indexScreenShot.png)
+![this is a screenshot of what the web page should look like](static/indexScreenShot.png)
 
 Everything is working.
 
